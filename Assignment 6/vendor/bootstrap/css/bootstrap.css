@@ -63,6 +63,10 @@ body {
   background-color: #fff;
 }
 
+div {
+  tabindex="0";
+}
+
 [tabindex="-1"]:focus {
   outline: 0 !important;
 }
