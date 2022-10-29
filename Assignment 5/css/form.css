@@ -35,6 +35,8 @@ legend {
 	width: 60%;
 	margin-left:4%;
 	background-color: #fff;
+	border-radius: 25px;
+  	border: 2px solid #73AD21;
 }
 
 div#formcol1 {
