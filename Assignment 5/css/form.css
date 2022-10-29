@@ -5,6 +5,11 @@
 
 body {
     font: normal 20px Helvetica sans-serif;
+    background-color: #80deea;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 fieldset {
