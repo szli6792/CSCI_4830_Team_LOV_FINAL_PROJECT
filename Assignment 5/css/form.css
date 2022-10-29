@@ -12,6 +12,12 @@ body {
     align-items: center;
 }
 
+main {
+  background-color: #fff;
+  padding: 30px;
+  width: 40%;
+}
+
 fieldset {
     border: 2px solid #8c8c8c;
     color: #000;
