@@ -75,7 +75,7 @@ accommodations, assistifve technology, DOJ, Department of Justice, WAI" />
   <div class="spkrques">
   <p><strong>Have you presented at a  national conference or taught a college-level, semester-long course?*</strong></p>
   <div class="oneques"> <span>
-  <input value="1" id="natconfexp1_yes" name="natconfexp1" type="radio" />
+  <input value="1" id="natconfexp1_yes" name="natconfexp1" type="radio" required aria-required="true" />
     <label for="natconfexp1_yes" >yes</label>
     </span> <span>
       <input value="0" id="natconfexp1_no" name="natconfexp1" type="radio" />
@@ -87,7 +87,7 @@ accommodations, assistifve technology, DOJ, Department of Justice, WAI" />
   <label for="Speaker1bio"><strong>Presenter 1 bio&nbsp;</strong>(1500 characters maximum)</label>
   
   
-  <textarea id="Speaker1bio" name="Speaker1bio" cols="80" rows="4" minlength="10" maxlength="1500"></textarea>
+  <textarea id="Speaker1bio" name="Speaker1bio" cols="80" rows="4" minlength="10" maxlength="1500" required aria-required="true"></textarea>
 </fieldset>
 
 
@@ -112,8 +112,7 @@ accommodations, assistifve technology, DOJ, Department of Justice, WAI" />
 <ul>
 <li>
 	<label for="proptitle">Proposal Title:</label>
-	<input id="proptitle" name="proptitle" class="reqfield type="text" minlength="3"
-    maxlength="150" />
+	<input id="proptitle" name="proptitle" class="reqfield type="text" required aria-required="true" minlength="3" maxlength="150" />
    
 </li>
 </ul>
