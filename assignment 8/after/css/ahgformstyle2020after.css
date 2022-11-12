@@ -67,7 +67,7 @@ label2{
 	font-size:200%;
 	font-weight:bold;
 	justify-content: center;
-    	align-items: center;
+    	text-align: center;
 }
 
 .outline3 {
@@ -75,7 +75,7 @@ label2{
 	font-size:150%;
 	font-weight:bold;
 	justify-content: center;
-    	align-items: center;
+    	text-align: center;
 }
 
 .outline4 {
