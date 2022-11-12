@@ -62,7 +62,16 @@ label2{
 	text-align: left;
 }
 
-#formstart {
+.formstart {
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:200%;
+	font-weight:bold;
+    	text-align: center;
+	display: flex;
+  	align-items: center;
+}
+
+.bigbutton {
 	font-family:Georgia, "Times New Roman", Times, serif;
 	font-size:200%;
 	font-weight:bold;
