@@ -74,7 +74,7 @@ label2{
 
 .bigbutton {
     	text-align: center;
-	display: inline-block;
+	display: flex;
 	font-size:200%;
   	align-items: center;
 	width:100%
