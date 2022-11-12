@@ -69,6 +69,7 @@ label2{
     	text-align: center;
 	display: flex;
   	align-items: center;
+	width: 100%;
 }
 
 .bigbutton {
