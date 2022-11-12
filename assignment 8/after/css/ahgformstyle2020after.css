@@ -6,6 +6,21 @@ textarea:focus, select:focus, select:active, input:focus, input:active, input:fo
 	outline:solid #03C medium;
 }
 
+label{
+margin-right: .3em;
+width: 5.9em;
+display: inline-block;
+text-align: right;
+}
+
+#formcol1 li {   
+list-style:none;
+}
+
+#fix-align {
+text-align: left;
+width: 3em;
+}
 
 
 
