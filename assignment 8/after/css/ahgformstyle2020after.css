@@ -50,6 +50,7 @@ textarea:focus, select:focus, select:active, input:focus, input:active, input:fo
 
 textarea {
 	resize: vertical;
+	width: 100%;
 }
 
 label{
