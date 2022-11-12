@@ -76,7 +76,6 @@ label2{
     	text-align: center;
 	display: inline-block;
   	align-items: center;
-	width: 10%;
 }
 
 .outline3 {
@@ -93,6 +92,7 @@ label2{
 	font-size:120%;
 	font-weight:bold;
 }
+
 .formheader {
 	text-align: center;
 	display: flex;
