@@ -105,4 +105,8 @@ label2{
 input.reqfield, textarea.reqfield {
 background:#F0FFF0;
 }
+
+.star {
+	color:red;
+}
 	
