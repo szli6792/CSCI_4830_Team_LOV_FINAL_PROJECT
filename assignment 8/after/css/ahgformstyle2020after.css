@@ -8,7 +8,7 @@ textarea:focus, select:focus, select:active, input:focus, input:active, input:fo
 
 label{
 	margin-right: .3em;
-	width: 12em;
+	width: 20em;
 	display: inline-block;
 	text-align: left;
 }
