@@ -69,14 +69,10 @@ label2{
     	text-align: center;
 	display: flex;
   	align-items: center;
-	margin-left: 20%;
 	width: 100%;
 }
 
 .bigbutton {
-	font-family:Georgia, "Times New Roman", Times, serif;
-	font-size:200%;
-	font-weight:bold;
     	text-align: center;
 	display: inline-block;
   	align-items: center;
@@ -97,4 +93,10 @@ label2{
 	font-size:120%;
 	font-weight:bold;
 }
-.
+.formheader {
+	text-align: center;
+	display: flex;
+  	align-items: center;
+	width: 100%;
+}
+	
