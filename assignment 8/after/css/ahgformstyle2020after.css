@@ -7,12 +7,18 @@ textarea:focus, select:focus, select:active, input:focus, input:active, input:fo
 }
 
 label{
-margin-right: .3em;
-width: 5.9em;
-display: inline-block;
-text-align: left;
+	margin-right: .3em;
+	width: 12em;
+	display: inline-block;
+	text-align: left;
 }
 
+label2{
+	margin-right: .3em;
+	width: 3em;
+	display: inline-block;
+	text-align: left;
+}
 
 #formstart {
 	font-family:Georgia, "Times New Roman", Times, serif;
