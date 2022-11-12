@@ -66,12 +66,16 @@ label2{
 	font-family:Georgia, "Times New Roman", Times, serif;
 	font-size:200%;
 	font-weight:bold;
+	justify-content: center;
+    	align-items: center;
 }
 
 .outline3 {
 	font-family:Georgia, "Times New Roman", Times, serif;
 	font-size:150%;
 	font-weight:bold;
+	justify-content: center;
+    	align-items: center;
 }
 
 .outline4 {
