@@ -67,7 +67,7 @@ label2{
 	font-size:200%;
 	font-weight:bold;
     	text-align: center;
-	display: flex;
+	display: inline-block;
   	align-items: center;
 	margin: 30px;
 	width: 100%;
@@ -78,7 +78,7 @@ label2{
 	font-size:200%;
 	font-weight:bold;
     	text-align: center;
-	display: inline;
+	display: inline-block;
   	align-items: center;
 	width: 60%;
 }
