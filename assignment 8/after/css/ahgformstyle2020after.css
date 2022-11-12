@@ -78,6 +78,7 @@ label2{
 	font-size:100%;
   	align-items: center;
 	margin-left:50%;
+	width:50%
 }
 
 .outline3 {
@@ -102,7 +103,7 @@ label2{
 	width: 100%;
 }
 
-reqfield {
+input.reqfield, textfield.reqfield {
 background:#FF9;
 }
 	
