@@ -48,6 +48,10 @@ textarea:focus, select:focus, select:active, input:focus, input:active, input:fo
 	outline:solid #03C medium;
 }
 
+textarea {
+	resize: vertical;
+}
+
 label{
 	margin-right: .3em;
 	width: 30%;
