@@ -75,10 +75,10 @@ label2{
 .bigbutton {
     	text-align: center;
 	display: inline-block;
-	font-size:300%;
+	font-size:200%;
   	align-items: center;
 	margin-left:25%;
-	width:50%
+	width:100%
 }
 
 .outline3 {
@@ -104,6 +104,6 @@ label2{
 }
 
 input.reqfield, textarea.reqfield {
-background:#FF9;
+background:#F0F9F9;
 }
 	
