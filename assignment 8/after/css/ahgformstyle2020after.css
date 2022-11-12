@@ -13,16 +13,6 @@ display: inline-block;
 text-align: right;
 }
 
-#formcol1 li {   
-list-style:none;
-}
-
-#fix-align {
-text-align: left;
-width: 3em;
-}
-
-
 
 #formstart {
 	font-family:Georgia, "Times New Roman", Times, serif;
