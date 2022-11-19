@@ -8,7 +8,7 @@
  #icontent #top-image { position:absolute; }
  #top-image { background:url(theme/blurred-bnw.jpg?1561758178) -50px -25px; position:fixed ; top:0; width:100%; z-index:0; }
  #page-wrap { background:url(theme/vichy-bnw.jpg?1561758178); position:relative; z-index:2; clear:both; }
- .below-fold-wrapper { position:relative; z-index:2; clear:both; top:490px; }
+ .below-fold-wrapper { position:relative; z-index:2; clear:both; top:190px; }
  #header-wrap, #banner-wrap, #nav-wrap, #main-wrap, #footer-wrap { width:100%; }
  h3 { font-size: 22px; padding: .2em 0 .2em 0; line-height: 1.2; font-weight: normal; letter-spacing: -1px; color: #333; margin-bottom:20px; }
  a { color: #222; }
@@ -232,6 +232,7 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
   background-color: red;
   color: white;
   text-align: center;
+  z-index: 4;
 }
 
 select:focus, select:active,
