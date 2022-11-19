@@ -3,7 +3,7 @@
  a img { border: 0; }
  a { text-decoration: none; transition: opacity 0.5s; -moz-transition: opacity 0.5s; -webkit-transition: opacity 0.5s; -o-transition: opacity 0.5s; }
  #icontent_container { background:url(theme/vichy-bnw.jpg?1561758178);}
- body { font-family: 'Open Sans', sans-serif; font-size: 13px; color: #555; line-height:24px; position:relative; z-index:1; background:url(theme/vichy-bnw.jpg?1561758178); }
+ body { font-family: 'Open Sans', sans-serif; font-size: 13px; color: #555; line-height:24px; position:relative; z-index:1; background:url(/images/background.jpg); }
  .container { margin: 0 auto; width: 960px; }
  #icontent #top-image { position:absolute; }
  #top-image { background:url(theme/blurred-bnw.jpg?1561758178) -50px -25px; position:fixed ; top:0; width:100%; z-index:0; }
