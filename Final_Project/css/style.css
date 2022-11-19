@@ -223,10 +223,11 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 }
 
 .footer {
-  position: fixed;
+  position: relative;
   left: 0;
   bottom: 0;
   width: 100%;
+  height:75 px;
   background-color: red;
   color: white;
   text-align: center;
