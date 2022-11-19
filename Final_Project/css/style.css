@@ -222,6 +222,9 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
   background-color: #04AA6D;
   color: white;
 }
+.header {
+ z-index:4;
+}
 
 .footer {
   position: relative;
