@@ -198,6 +198,7 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 .topnav {
   background-color: #333;
   overflow: hidden;
+  width:100%;
 }
 
 /* Style the links inside the navigation bar */
@@ -232,3 +233,13 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
   color: white;
   text-align: center;
 }
+
+select:focus, select:active,
+Input:focus,
+Input:active,
+input:focus + label,
+input:active + label,
+Label[for]:focus,
+Label[for]:active
+{color: #FFF !important;background-color: #BB3D2F !important;}
+
