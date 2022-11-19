@@ -134,7 +134,7 @@
  .landing-banner-mid { #position: absolute; #top: 50%; display: table-cell; vertical-align: middle; }
  .landing-banner-inner { #position: relative; #top: -50%; }
  #bannerright { float: left; width: 960px; height:323px; }
- #bannerright h2 { color: #fff ; font-size: 48px; font-family: 'Mate', serif; letter-spacing:1px; padding: 0px; line-height: 48px; text-shadow:0 0 7px rgba(0,0,0,0.5); margin-bottom: 0px; }
+ #bannerright h2 { color: #fff ; font-size: 48px; font-family: 'Open Sans', sans-serif; letter-spacing:1px; padding: 0px; line-height: 48px; text-shadow:0 0 7px rgba(0,0,0,0.5); margin-bottom: 0px; }
  #bannerright div.paragraph a {color:#fff; border-bottom:1px dashed #fff;}
  #bannerright p a {color:#fff; border-bottom:1px dashed #fff;}
  #bannerright div.paragraph a:hover {color:#fff; border-bottom:1px solid #fff;}
