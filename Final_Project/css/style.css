@@ -5,7 +5,7 @@
  #icontent_container {}
  body { font-family: 'Open Sans', sans-serif; font-size: 13px; color: #555; line-height:24px; position:relative; z-index:1; background:url(/images/background.jpg); }
  .container { margin: 0 auto; width: 960px; }
- #icontent #top-image { position:absolute; margin-bottom:80px;}
+ #icontent #top-image { position:absolute; margin-bottom:60px;}
  #top-image { position:fixed ; top:0; width:100%; z-index:1; }
  #page-wrap {position:relative; z-index:0; clear:both; margin-bottom:80px;}
  .below-fold-wrapper { position:relative; z-index:2; clear:both; top:80px; margin-bottom:80px;}
